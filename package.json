@@ -1,0 +1,12 @@
+{
+  "name": "show_keyword",
+  "title": "Show Keyword",
+  "id": "jid1-xH3A9G91wKDQkw",
+  "description": "Fixes the bookmark UI to show the keyword field",
+  "author": "Eitan Adler",
+  "license": "MIT/X11",
+  "version": "1.0",
+  "icon": "data/icon-48.png",
+  "icon64": "data/icon-64.png",
+  "permissions": {"private-browsing": true}
+}
