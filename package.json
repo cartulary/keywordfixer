@@ -1,12 +1,13 @@
 {
   "name": "show_keyword",
   "title": "Show Keyword",
-  "id": "jid1-xH3A9G91wKDQkw",
+  "id": "jid1-xH3A9G91wKDQkw@jetpack",
   "description": "Fixes the bookmark UI to show the keyword field",
   "author": "Eitan Adler",
   "license": "MIT/X11",
-  "version": "1.0",
+  "version": "1.0.1",
   "icon": "data/icon-48.png",
   "icon64": "data/icon-64.png",
+  "main": "lib/main.js",
   "permissions": {"private-browsing": true}
 }
